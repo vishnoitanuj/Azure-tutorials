@@ -15,7 +15,7 @@ from io import BytesIO
 # In[13]:
 
 
-subscription_key = "f9ab31f762d440a789fb4164132a7471"
+subscription_key = "#"
 assert subscription_key
 
 

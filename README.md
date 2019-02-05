@@ -13,9 +13,9 @@ Sign Up using a educational pack (thapar.edu) and approve your services
 <a href="https://azure.microsoft.com/en-us/services/cognitive-services/directory/vision/" target=__blank>Computer Vision</a>
 
 ## Links
-pip install requests
-pip install pyplot
-pip install IOBytes
+####### pip install requests
+####### pip install pyplot
+####### pip install IOBytes
 
 
 

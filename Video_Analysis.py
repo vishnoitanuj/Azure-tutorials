@@ -16,7 +16,7 @@ import cv2
 # In[27]:
 
 
-tanuj = "f9ab31f762d440a789fb414132a7471"
+tanuj = "#"
 assert tanuj
 
 
